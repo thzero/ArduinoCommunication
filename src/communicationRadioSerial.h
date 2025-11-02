@@ -2,8 +2,6 @@
 #define _COMMUNICATION_RADIO_SERIAL_H
 
 #include <stdint.h>
-#include <Arduino.h>
-#include <limits.h>
 
 #include <communicationData.h>
 #include <communicationRadio.h>
