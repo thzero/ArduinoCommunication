@@ -1,5 +1,3 @@
-#include <Arduino.h>
-
 #include <utilities.h>
 
 #include "communicationConstants.h"

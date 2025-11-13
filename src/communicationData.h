@@ -2,6 +2,7 @@
 #define _COMMMUNICATION_DATA_H
 
 #include <Arduino.h>
+#include <stdint.h>
 
 #define BUFFER_MAX_SIZE 1024
 #define BUFFER_MAX_MESSAGE_SIZE 1021 // start - command - size - size - bytes - crc - end

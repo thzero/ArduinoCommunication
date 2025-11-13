@@ -2,8 +2,6 @@
 #define _COMMUNICATION_RADIO_LORA_EBYTE_H
 
 #include <stdint.h>
-#include <Arduino.h>
-#include <limits.h>
 #include <EBYTE.h>
 
 #include "communicationRadioLoRa.h"

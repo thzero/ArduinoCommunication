@@ -1,8 +1,6 @@
 #ifndef _COMMUNICATION_RADIO_H
 #define _COMMUNICATION_RADIO_H
 
-#include <Arduino.h>
-
 #include <communicationData.h>
 
 class CommunicationRadio {

@@ -1,5 +1,3 @@
-#include <Arduino.h>
-
 #include "communicationRadioSerial.h"
 
 uint8_t CommunicationRadioSerial::setup(HardwareSerial* port, int baud) {

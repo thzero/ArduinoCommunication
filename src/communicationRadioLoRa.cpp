@@ -1,5 +1,3 @@
-#include <Arduino.h>
-
 #include "communicationRadioLoRa.h"
 
 uint8_t CommunicationRadioLoRa::setup(HardwareSerial* port, int address, int channel, int networkId, int baud) {
